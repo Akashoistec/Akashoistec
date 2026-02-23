@@ -77,6 +77,13 @@ Infrastructure Lifecycle (Terraform + OIDC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-patel-devsecops)
 [![GitHub](https://img.shields.io/badge/GitHub-Akashoistec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashoistec)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="akash-patel-devsecops" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-patel-devsecops?trk=profile-badge">Akash Patel</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="akash-patel-devsecops" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-patel-devsecops?trk=profile-badge">Akash Patel</a></div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+              
+              
 
 📧 akash.oistec@gmail.com | 📍 Mumbai, India
 
